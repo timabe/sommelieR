@@ -12,7 +12,7 @@ For example, when we type `oak, stone fruits`, the model recognizes these words 
 
 But when we add `honeysuckle` to the description, it becomes quite clear that we are describing a Chardonnay!
 
-~[three_word_ex](screenshots/three_phrases.png)
+![three_word_ex](screenshots/three_phrases.png)
 
 ## More info / License / Thanks
 
