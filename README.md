@@ -1,6 +1,6 @@
 # sommelieR
 
-sommelieR is a [shiny app](https://github.com/rstudio/shiny) written in R, which takes words scraped from thousands of wine reviews written on [Wine Spectator](www.winespectator.com) and uses a Naive Bayesian model to determine the most likely posterior probability given user-inputed text. 
+[sommelieR](https://timmy.shinyapps.io/wine/) is a [shiny app](https://github.com/rstudio/shiny) written in R, which takes words scraped from thousands of wine reviews written on [Wine Spectator](www.winespectator.com) and uses a Naive Bayesian model to determine the most likely posterior probability given user-inputed text. 
 
 ## Example
 
